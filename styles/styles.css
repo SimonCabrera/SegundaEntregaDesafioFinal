@@ -1,4 +1,67 @@
-{
-    margin 0
-    padding 0
+header{
+    /*  */
+    background-color: yellow;
+    text-align: center;
+    font-family: 'Prata', serif;
+    font-style: italic;
+    font-weight: 40%;
+    
+}
+#titular{
+    font-size: 500%;
+}
+.menu{
+    
+    background-color: yellow;
+}
+#firstContainer{
+    background-color: yellow;
+    
+}
+#secondTittle{
+    font-style: italic;
+
+}
+main{
+    /* background-color: white; */
+    font-family: 'Open Sans', sans-serif;
+}
+#firstColumn{
+    padding: 5%;
+}
+#secondColumn{
+    background-color: yellow;
+}
+.link1{
+    color: black;
+}
+#secondContainer{
+    background-color: yellow;
+}
+#footerTittle{
+    background-color: yellow;
+    font-weight: 700;
+    /* text-align: center; */
+}
+footer{
+    background-color: yellow;
+}
+/* html{
+    background-color: yellow;
+} */
+body{
+    background-color: yellow;
+}
+.facebook{
+    width: 12vh;
+}
+.instagram{
+    
+    width: 5vh;
+}
+.twitter{
+    width: 7vh;
+}
+#secondTittleContacto{
+    font-size: x-large;
 }
