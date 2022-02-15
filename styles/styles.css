@@ -39,29 +39,30 @@ main{
     background-color: yellow;
 }
 #footerTittle{
+    padding: 1vh;
     background-color: yellow;
     font-weight: 700;
     /* text-align: center; */
 }
 footer{
+    padding-bottom: 3vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-top: 1vh;
     background-color: yellow;
 }
-/* html{
-    background-color: yellow;
-} */
+
 body{
     background-color: yellow;
 }
-.facebook{
-    width: 12vh;
-}
-.instagram{
-    
-    width: 5vh;
-}
-.twitter{
-    width: 7vh;
-}
+
 #secondTittleContacto{
     font-size: x-large;
+}
+.link2{
+    color: black;
+    padding: 2vh;
+}
+#secondTittleDep{
+    font-style: italic;
 }
