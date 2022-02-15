@@ -66,3 +66,6 @@ body{
 #secondTittleDep{
     font-style: italic;
 }
+#imgSize{
+    width: 100vh;
+}
